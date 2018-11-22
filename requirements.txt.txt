@@ -1,0 +1,10 @@
+numpy
+pandas
+pillow
+opencv-python
+keras
+tensorflow
+scikit-learn
+scikit-image
+flask
+flask-cors
